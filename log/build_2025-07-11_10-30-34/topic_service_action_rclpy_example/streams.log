@@ -1,0 +1,23 @@
+[0.668s] Invoking command in '/home/noh0906/robot_ws/build/topic_service_action_rclpy_example': PYTHONPATH=/home/noh0906/robot_ws/build/topic_service_action_rclpy_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/noh0906/robot_ws/install/topic_service_action_rclpy_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/noh0906/robot_ws/build/topic_service_action_rclpy_example/build --no-deps symlink_data
+[0.935s] running develop
+[1.100s] running egg_info
+[1.101s] writing topic_service_action_rclpy_example.egg-info/PKG-INFO
+[1.103s] writing dependency_links to topic_service_action_rclpy_example.egg-info/dependency_links.txt
+[1.103s] writing entry points to topic_service_action_rclpy_example.egg-info/entry_points.txt
+[1.103s] writing requirements to topic_service_action_rclpy_example.egg-info/requires.txt
+[1.103s] writing top-level names to topic_service_action_rclpy_example.egg-info/top_level.txt
+[1.104s] reading manifest file 'topic_service_action_rclpy_example.egg-info/SOURCES.txt'
+[1.105s] writing manifest file 'topic_service_action_rclpy_example.egg-info/SOURCES.txt'
+[1.106s] running build_ext
+[1.107s] Creating /home/noh0906/robot_ws/install/topic_service_action_rclpy_example/lib/python3.10/site-packages/topic-service-action-rclpy-example.egg-link (link to .)
+[1.108s] Installing argument script to /home/noh0906/robot_ws/install/topic_service_action_rclpy_example/lib/topic_service_action_rclpy_example
+[1.108s] Installing arithmetic.launch script to /home/noh0906/robot_ws/install/topic_service_action_rclpy_example/lib/topic_service_action_rclpy_example
+[1.108s] Installing arithmetic_action_server script to /home/noh0906/robot_ws/install/topic_service_action_rclpy_example/lib/topic_service_action_rclpy_example
+[1.108s] Installing calculator script to /home/noh0906/robot_ws/install/topic_service_action_rclpy_example/lib/topic_service_action_rclpy_example
+[1.108s] Installing checker script to /home/noh0906/robot_ws/install/topic_service_action_rclpy_example/lib/topic_service_action_rclpy_example
+[1.108s] Installing multi_thread script to /home/noh0906/robot_ws/install/topic_service_action_rclpy_example/lib/topic_service_action_rclpy_example
+[1.109s] Installing operator script to /home/noh0906/robot_ws/install/topic_service_action_rclpy_example/lib/topic_service_action_rclpy_example
+[1.109s] 
+[1.109s] Installed /home/noh0906/robot_ws/build/topic_service_action_rclpy_example
+[1.109s] running symlink_data
+[1.145s] Invoked command in '/home/noh0906/robot_ws/build/topic_service_action_rclpy_example' returned '0': PYTHONPATH=/home/noh0906/robot_ws/build/topic_service_action_rclpy_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/noh0906/robot_ws/install/topic_service_action_rclpy_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/noh0906/robot_ws/build/topic_service_action_rclpy_example/build --no-deps symlink_data

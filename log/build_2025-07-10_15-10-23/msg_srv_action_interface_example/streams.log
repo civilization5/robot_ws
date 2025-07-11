@@ -1,0 +1,63 @@
+[0.016s] Invoking command in '/home/noh0906/robot_ws/build/msg_srv_action_interface_example': /usr/bin/cmake /home/noh0906/robot_ws/src/msg_srv_action_interface_example -DCMAKE_INSTALL_PREFIX=/home/noh0906/robot_ws/install/msg_srv_action_interface_example
+[0.438s] -- The C compiler identification is GNU 11.4.0
+[0.723s] -- The CXX compiler identification is GNU 11.4.0
+[0.746s] -- Detecting C compiler ABI info
+[0.961s] -- Detecting C compiler ABI info - done
+[0.973s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.977s] -- Detecting C compile features
+[0.977s] -- Detecting C compile features - done
+[0.994s] -- Detecting CXX compiler ABI info
+[1.168s] -- Detecting CXX compiler ABI info - done
+[1.182s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.184s] -- Detecting CXX compile features
+[1.188s] -- Detecting CXX compile features - done
+[1.212s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.576s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.052s] -- Found builtin_interfaces: 1.2.1 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[2.176s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.199s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.232s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.294s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.349s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.392s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[3.117s] Error parsing '/home/noh0906/robot_ws/src/msg_srv_action_interface_example/package.xml':
+[3.250s] Traceback (most recent call last):
+[3.250s]   File "/usr/lib/python3/dist-packages/catkin_pkg/package.py", line 610, in parse_package_string
+[3.261s]     root = dom.parseString(data)
+[3.261s]   File "/usr/lib/python3.10/xml/dom/minidom.py", line 2000, in parseString
+[3.263s]     return expatbuilder.parseString(string)
+[3.263s]   File "/usr/lib/python3.10/xml/dom/expatbuilder.py", line 925, in parseString
+[3.264s]     return builder.parseString(string)
+[3.264s]   File "/usr/lib/python3.10/xml/dom/expatbuilder.py", line 223, in parseString
+[3.267s]     parser.Parse(string, True)
+[3.267s] xml.parsers.expat.ExpatError: XML or text declaration not at start of entity: line 17, column 11
+[3.267s] 
+[3.267s] During handling of the above exception, another exception occurred:
+[3.267s] 
+[3.267s] Traceback (most recent call last):
+[3.267s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 150, in <module>
+[3.267s]     main()
+[3.267s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 53, in main
+[3.267s]     raise e
+[3.267s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 49, in main
+[3.267s]     package = parse_package_string(
+[3.267s]   File "/usr/lib/python3/dist-packages/catkin_pkg/package.py", line 612, in parse_package_string
+[3.268s]     raise InvalidPackage('The manifest contains invalid XML:\n%s' % ex, filename)
+[3.268s] catkin_pkg.package.InvalidPackage: Error(s) in package '/home/noh0906/robot_ws/src/msg_srv_action_interface_example/package.xml':
+[3.268s] The manifest contains invalid XML:
+[3.268s] XML or text declaration not at start of entity: line 17, column 11
+[3.302s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:95 (message):
+[3.302s]   execute_process(/usr/bin/python3
+[3.302s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py
+[3.303s]   /home/noh0906/robot_ws/src/msg_srv_action_interface_example/package.xml
+[3.303s]   /home/noh0906/robot_ws/build/msg_srv_action_interface_example/ament_cmake_core/package.cmake)
+[3.303s]   returned error code 1
+[3.303s] Call Stack (most recent call first):
+[3.303s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+[3.303s]   /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:226 (ament_package_xml)
+[3.303s]   CMakeLists.txt:36 (rosidl_generate_interfaces)
+[3.303s] 
+[3.303s] [0m
+[3.306s] -- Configuring incomplete, errors occurred!
+[3.306s] See also "/home/noh0906/robot_ws/build/msg_srv_action_interface_example/CMakeFiles/CMakeOutput.log".
+[3.328s] Invoked command in '/home/noh0906/robot_ws/build/msg_srv_action_interface_example' returned '1': /usr/bin/cmake /home/noh0906/robot_ws/src/msg_srv_action_interface_example -DCMAKE_INSTALL_PREFIX=/home/noh0906/robot_ws/install/msg_srv_action_interface_example

@@ -1,0 +1,6 @@
+[0.000000] (-) TimerEvent: {}
+[0.000281] (-) JobUnselected: {'identifier': 'my_first_package_msgs'}
+[0.000376] (-) JobUnselected: {'identifier': 'my_first_ros_rclpy_pkg'}
+[0.000438] (-) JobUnselected: {'identifier': 'ros_time_pkg'}
+[0.000450] (-) JobUnselected: {'identifier': 'turtle_pkg'}
+[0.000462] (-) EventReactorShutdown: {}

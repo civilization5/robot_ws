@@ -1,0 +1,4 @@
+[console_scripts]
+time_publisher = ros_time_pkg.time_publisher:main
+time_subscriber = ros_time_pkg.time_subscriber:main
+

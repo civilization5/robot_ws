@@ -1,0 +1,23 @@
+[1.640s] Invoking command in '/home/noh0906/robot_ws/build/my_turtlebot_pkg': PYTHONPATH=/home/noh0906/robot_ws/build/my_turtlebot_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/noh0906/robot_ws/install/my_turtlebot_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/noh0906/robot_ws/build/my_turtlebot_pkg/build --no-deps symlink_data
+[1.999s] running develop
+[2.203s] running egg_info
+[2.203s] creating my_turtlebot_pkg.egg-info
+[2.203s] writing my_turtlebot_pkg.egg-info/PKG-INFO
+[2.204s] writing dependency_links to my_turtlebot_pkg.egg-info/dependency_links.txt
+[2.204s] writing entry points to my_turtlebot_pkg.egg-info/entry_points.txt
+[2.204s] writing requirements to my_turtlebot_pkg.egg-info/requires.txt
+[2.205s] writing top-level names to my_turtlebot_pkg.egg-info/top_level.txt
+[2.205s] writing manifest file 'my_turtlebot_pkg.egg-info/SOURCES.txt'
+[2.206s] reading manifest file 'my_turtlebot_pkg.egg-info/SOURCES.txt'
+[2.208s] writing manifest file 'my_turtlebot_pkg.egg-info/SOURCES.txt'
+[2.209s] running build_ext
+[2.209s] Creating /home/noh0906/robot_ws/install/my_turtlebot_pkg/lib/python3.10/site-packages/my-turtlebot-pkg.egg-link (link to .)
+[2.210s] 
+[2.210s] Installed /home/noh0906/robot_ws/build/my_turtlebot_pkg
+[2.210s] running symlink_data
+[2.210s] creating /home/noh0906/robot_ws/install/my_turtlebot_pkg/share/ament_index
+[2.210s] creating /home/noh0906/robot_ws/install/my_turtlebot_pkg/share/ament_index/resource_index
+[2.211s] creating /home/noh0906/robot_ws/install/my_turtlebot_pkg/share/ament_index/resource_index/packages
+[2.211s] symbolically linking /home/noh0906/robot_ws/build/my_turtlebot_pkg/resource/my_turtlebot_pkg -> /home/noh0906/robot_ws/install/my_turtlebot_pkg/share/ament_index/resource_index/packages
+[2.214s] symbolically linking /home/noh0906/robot_ws/build/my_turtlebot_pkg/package.xml -> /home/noh0906/robot_ws/install/my_turtlebot_pkg/share/my_turtlebot_pkg
+[2.255s] Invoked command in '/home/noh0906/robot_ws/build/my_turtlebot_pkg' returned '0': PYTHONPATH=/home/noh0906/robot_ws/build/my_turtlebot_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/noh0906/robot_ws/install/my_turtlebot_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/noh0906/robot_ws/build/my_turtlebot_pkg/build --no-deps symlink_data

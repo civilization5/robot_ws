@@ -1,0 +1,9 @@
+[console_scripts]
+dist_turtle_action_server = turtle_pkg.dist_turtle_action_server:main
+my_multi_thread = turtle_pkg.my_multi_thread:main
+my_service_server = turtle_pkg.my_service_server:main
+my_subscriber = turtle_pkg.my_subscriber:main
+turtle_cmd_and_pose = turtle_pkg.turtle_cmd_and_pose:main
+turtle_pub = turtle_pkg.turtle_pub:main
+turtlesim_and_teleop.launch = turtle_pkg.turtlesim_and_teleop.launch:main
+

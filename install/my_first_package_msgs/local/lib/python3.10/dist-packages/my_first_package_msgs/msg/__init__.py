@@ -1,0 +1,1 @@
+/home/noh0906/robot_ws/build/my_first_package_msgs/rosidl_generator_py/my_first_package_msgs/msg/__init__.py

@@ -1,0 +1,17 @@
+[0.595s] Invoking command in '/home/noh0906/robot_ws/build/turtle_pkg': PYTHONPATH=/home/noh0906/robot_ws/build/turtle_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/noh0906/robot_ws/install/turtle_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/noh0906/robot_ws/build/turtle_pkg/build --no-deps symlink_data
+[0.833s] running develop
+[0.980s] running egg_info
+[0.980s] writing turtle_pkg.egg-info/PKG-INFO
+[0.981s] writing dependency_links to turtle_pkg.egg-info/dependency_links.txt
+[0.981s] writing entry points to turtle_pkg.egg-info/entry_points.txt
+[0.981s] writing requirements to turtle_pkg.egg-info/requires.txt
+[0.982s] writing top-level names to turtle_pkg.egg-info/top_level.txt
+[0.984s] reading manifest file 'turtle_pkg.egg-info/SOURCES.txt'
+[0.984s] writing manifest file 'turtle_pkg.egg-info/SOURCES.txt'
+[0.985s] running build_ext
+[0.986s] Creating /home/noh0906/robot_ws/install/turtle_pkg/lib/python3.10/site-packages/turtle-pkg.egg-link (link to .)
+[0.986s] Installing my_turtle script to /home/noh0906/robot_ws/install/turtle_pkg/lib/turtle_pkg
+[0.986s] 
+[0.986s] Installed /home/noh0906/robot_ws/build/turtle_pkg
+[0.986s] running symlink_data
+[1.023s] Invoked command in '/home/noh0906/robot_ws/build/turtle_pkg' returned '0': PYTHONPATH=/home/noh0906/robot_ws/build/turtle_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/noh0906/robot_ws/install/turtle_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/noh0906/robot_ws/build/turtle_pkg/build --no-deps symlink_data
