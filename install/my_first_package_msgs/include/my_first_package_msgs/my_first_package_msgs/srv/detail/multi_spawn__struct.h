@@ -1,1 +1,0 @@
-/home/noh0906/robot_ws/build/my_first_package_msgs/rosidl_generator_c/my_first_package_msgs/srv/detail/multi_spawn__struct.h

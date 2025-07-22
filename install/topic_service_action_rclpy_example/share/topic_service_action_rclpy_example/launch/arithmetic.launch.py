@@ -1,1 +1,0 @@
-/home/noh0906/robot_ws/build/topic_service_action_rclpy_example/launch/arithmetic.launch.py
