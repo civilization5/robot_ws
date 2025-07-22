@@ -20,7 +20,14 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-          'move_turtle_pub = my_turtlebot_pkg.move_turtle_pub:main'
+          'move_turtle_pub = my_turtlebot_pkg.move_turtle_pub:main',
+          'detect_obstacle_pkg = my_turtlebot_pkg.detect_obstacle_pkg:main',
+          'move_key_turtle = my_turtlebot_pkg.move_key_turtle:main',
+          'turtlebot_pose = my_turtlebot_pkg.turtlebot_pose:main',
+          'turtlebot_server = my_turtlebot_pkg.turtlebot_server:main',
+          'turtlebot_client = my_turtlebot_pkg.turtlebot_client:main',
+          'move_hand = my_turtlebot_pkg.move_hand:main',
+          'yolo = my_turtlebot_pkg.yolo:main',
         ],
     },
 )
