@@ -1,2 +1,0 @@
-Invoking command in '/home/noh0906/robot_ws/build/msg_srv_action_interface_example': /usr/bin/cmake /home/noh0906/robot_ws/src/msg_srv_action_interface_example -DCMAKE_INSTALL_PREFIX=/home/noh0906/robot_ws/install/msg_srv_action_interface_example
-Invoked command in '/home/noh0906/robot_ws/build/msg_srv_action_interface_example' returned '1': /usr/bin/cmake /home/noh0906/robot_ws/src/msg_srv_action_interface_example -DCMAKE_INSTALL_PREFIX=/home/noh0906/robot_ws/install/msg_srv_action_interface_example
