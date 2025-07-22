@@ -1,1 +1,0 @@
-/home/noh0906/robot_ws/src/my_first_package_msgs/msg/CmdAndPoseVel.msg

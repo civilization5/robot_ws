@@ -1,8 +1,0 @@
-[0.000000] (-) TimerEvent: {}
-[0.000723] (-) JobUnselected: {'identifier': 'msg_srv_action_interface_example'}
-[0.000746] (-) JobUnselected: {'identifier': 'my_first_package_msgs'}
-[0.000758] (-) JobUnselected: {'identifier': 'my_first_ros_rclpy_pkg'}
-[0.000768] (-) JobUnselected: {'identifier': 'ros_time_pkg'}
-[0.000778] (-) JobUnselected: {'identifier': 'topic_service_action_rclpy_example'}
-[0.000802] (-) JobUnselected: {'identifier': 'turtle_pkg'}
-[0.000814] (-) EventReactorShutdown: {}
